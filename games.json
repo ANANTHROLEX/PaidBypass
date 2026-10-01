@@ -1,0 +1,42 @@
+[
+  {
+    "imageIndex": 0,
+    "title": "Global",
+    "version": "4.6.0",
+    "status": "Safe",
+    "package": "com.tencent.ig",
+    "region": "GLOBAL"
+  },
+  {
+    "imageIndex": 1,
+    "title": "Bgmi",
+    "version": "4.6.0",
+    "status": "Ready",
+    "package": "com.pubg.imobile",
+    "region": "INDIA"
+  },
+  {
+    "imageIndex": 2,
+    "title": "Korea",
+    "version": "4.6.0",
+    "status": "Safe",
+    "package": "com.pubg.krmobile",
+    "region": "KOREA"
+  },
+  {
+    "imageIndex": 3,
+    "title": "Taiwan",
+    "version": "4.6.0",
+    "status": "Safe",
+    "package": "com.vng.pubgmobile",
+    "region": "TAIWAN"
+  },
+  {
+    "imageIndex": 4,
+    "title": "Vng",
+    "version": "4.6.0",
+    "status": "Safe",
+    "package": "com.rekoo.pubgm",
+    "region": "VIETNAM"
+  }
+]
